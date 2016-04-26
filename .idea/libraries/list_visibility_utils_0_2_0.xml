@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="list-visibility-utils-0.2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.danylovolokh/list-visibility-utils/0.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.danylovolokh/list-visibility-utils/0.2.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$APPLICATION_HOME_DIR$/gradle/gradle-2.10-all/gradle-2.8-all/gradle-2.8/caches/modules-2/files-2.1/com.github.danylovolokh/list-visibility-utils/0.2.0/ee9b939669f45ead5119dfaa88f199e5d7836254/list-visibility-utils-0.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

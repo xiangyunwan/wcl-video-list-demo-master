@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_github\wcl-video-list-demo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\android_github\wcl-video-list-demo-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_b332a111e829197266908cf10f36f77e97e734c1.jar" />
+    </item>
+    <item
+        jar="D:\android_github\wcl-video-list-demo-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\android_github\wcl-video-list-demo-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_63e933fcffe32d563d2898e9f0816dd3a9574861.jar" />
+    </item>
+    <item
+        jar="D:\android_github\wcl-video-list-demo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\android_github\wcl-video-list-demo-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_27b8dde502ae6600b52fb11c2f84315f38947484.jar" />
+    </item>
+    <item
+        jar="D:\android_github\wcl-video-list-demo-master\app\build\intermediates\exploded-aar\com.github.danylovolokh\video-player-manager\0.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="919661fb65990cb40ac9f8b95247de43a7a4ac3c">
+        <dex dex="D:\android_github\wcl-video-list-demo-master\app\build\intermediates\pre-dexed\debug\com.github.danylovolokh-video-player-manager-0.2.0_5133b5d85d25eda69b0af4d09b276febef0840d6.jar" />
+    </item>
+    <item
+        jar="D:\android_github\wcl-video-list-demo-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\android_github\wcl-video-list-demo-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_7bee5031f0d5e47d7ca3d8a66bb808742115d6b3.jar" />
+    </item>
+    <item
+        jar="D:\android_github\wcl-video-list-demo-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="D:\android_github\wcl-video-list-demo-master\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.2.1_c980db51c87a60d3c84b7d7ed37d59c484d553f4.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\gradle-2.8\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\android_github\wcl-video-list-demo-master\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_860f5dcbb919018eac7a4f091b17039474c3d2ee.jar" />
+    </item>
+    <item
+        jar="D:\android_github\wcl-video-list-demo-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\android_github\wcl-video-list-demo-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_ba3b9e69ec85ac814a253d281c05a0e098863d8d.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\gradle-2.8\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\android_github\wcl-video-list-demo-master\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_b94e3beef9638d29d3965a1703632171de669805.jar" />
+    </item>
+    <item
+        jar="D:\android_github\wcl-video-list-demo-master\app\build\intermediates\exploded-aar\com.github.danylovolokh\list-visibility-utils\0.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="02535ffed66174474b00a39ce865075342cfcaa6">
+        <dex dex="D:\android_github\wcl-video-list-demo-master\app\build\intermediates\pre-dexed\debug\com.github.danylovolokh-list-visibility-utils-0.2.0_b0b33b4c283dc5e56cdf14237ae986b07c67fc6e.jar" />
+    </item>
+    <item
+        jar="F:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\android_github\wcl-video-list-demo-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_5ddb85384c211a11347e988071d554579bf749fc.jar" />
+    </item>
+    <item
+        jar="D:\android_github\wcl-video-list-demo-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="D:\android_github\wcl-video-list-demo-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.1_22ae436d798fea5be9a1581fd06e8ef3bb757111.jar" />
+    </item>
+
+</items>
